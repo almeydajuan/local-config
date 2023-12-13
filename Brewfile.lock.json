@@ -2,13 +2,13 @@
   "entries": {
     "tap": {
       "homebrew/bundle": {
-        "revision": "ea1f4fafc7786ef4d21eda4372ada8d0948e0255"
+        "revision": "3f43dfca496433f364bc1c70711c581b0e804dec"
       },
       "homebrew/cask": {
         "revision": "ccac8a2cc628db3919e2eec3d8984083e235c785"
       },
       "homebrew/cask-versions": {
-        "revision": "b9530667e3da0a4f729de6da0f92ac0f192b3e0e"
+        "revision": "76d7e47391f4e7892076fdb25dd776db5cad0033"
       }
     },
     "brew": {
