@@ -33,6 +33,7 @@ brew "httpie"
 brew "trivy"
 brew "dive"
 brew "zellij"
+brew "thefuck"
 
 cask_args appdir: "/Applications"
 
