@@ -8,6 +8,7 @@ brew "fzf"
 brew "zsh-autosuggestions"
 brew "pinentry-mac"
 brew "gpg"
+brew "thefuck"
 brew "openconnect"
 
 cask "temurin21"
@@ -33,7 +34,7 @@ brew "httpie"
 brew "trivy"
 brew "dive"
 brew "zellij"
-brew "thefuck"
+brew "k9s"
 
 cask_args appdir: "/Applications"
 
