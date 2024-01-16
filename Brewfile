@@ -26,6 +26,7 @@ brew "just"
 brew "kubectx"
 brew "sops"
 brew "yq"
+brew "stern"
 
 ## testing
 brew "bat"
