@@ -1127,7 +1127,7 @@
         }
       },
       "spotify": {
-        "version": "1.2.29.605,66a43ceb,1234",
+        "version": "1.2.29.605,66a43ceb,1228",
         "options": {
           "full_name": "spotify",
           "args": {
@@ -1262,6 +1262,14 @@
         "CLT": "14.2.0.0.1.1668646533",
         "Xcode": "14.2",
         "macOS": "12.6.8"
+      },
+      "sonoma": {
+        "HOMEBREW_VERSION": "4.2.5",
+        "HOMEBREW_PREFIX": "/usr/local",
+        "Homebrew/homebrew-core": "api",
+        "CLT": "15.1.0.0.1.1700200546",
+        "Xcode": "15.1",
+        "macOS": "14.2.1"
       }
     }
   }
