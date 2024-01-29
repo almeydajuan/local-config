@@ -11,7 +11,9 @@ brew "thefuck"
 brew "openconnect"
 
 cask "temurin21"
+
 brew "pyenv"
+brew "pipenv"
 
 cask "wezterm"
 cask "iterm2"
