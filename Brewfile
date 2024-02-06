@@ -5,11 +5,14 @@ tap "homebrew/cask-versions"
 brew "direnv"
 brew "fzf"
 brew "zsh-autosuggestions"
-brew "pinentry-mac"
-brew "gpg"
 brew "thefuck"
 brew "openconnect"
 brew "curl"
+
+brew "gpg"
+brew "gnupg"
+brew "pinentry-mac"
+
 
 cask "temurin21"
 
