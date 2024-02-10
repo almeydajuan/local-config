@@ -32,6 +32,7 @@ brew "kubectx"
 brew "sops"
 brew "yq"
 brew "stern"
+brew "terraform"
 
 ## testing
 brew "bat"
