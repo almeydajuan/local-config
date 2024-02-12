@@ -18,6 +18,7 @@ cask "temurin21"
 
 brew "pyenv"
 brew "pipenv"
+brew "pipx"
 
 cask "wezterm"
 cask "iterm2"
