@@ -34,6 +34,7 @@ brew "sops"
 brew "yq"
 brew "stern"
 brew "terraform"
+brew "helm"
 
 ## testing
 brew "bat"
