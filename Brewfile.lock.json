@@ -1514,6 +1514,15 @@
             "appdir": "/Applications"
           }
         }
+      },
+      "discord": {
+        "version": "0.0.300",
+        "options": {
+          "full_name": "discord",
+          "args": {
+            "appdir": "/Applications"
+          }
+        }
       }
     }
   },

@@ -65,3 +65,5 @@ cask "tomighty"
 cask "firefox"
 cask "expressvpn"
 cask "arc"
+cask "discord"
+
