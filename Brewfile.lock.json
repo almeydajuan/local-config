@@ -8,7 +8,7 @@
         "revision": "a23a7ad7c4aee341c585da6daf6a48342bf759c2"
       },
       "homebrew/cask-versions": {
-        "revision": "faa4cf58c7b10a0564a3d88383846be0b082206b"
+        "revision": "e00e4a1ccf4a5e45d27e419925a2f12bd9162874"
       }
     },
     "brew": {
@@ -1381,7 +1381,7 @@
         }
       },
       "spotify": {
-        "version": "1.2.35.663,b699649e,5769",
+        "version": "1.2.35.663,b699649e,5726",
         "options": {
           "full_name": "spotify",
           "args": {
@@ -1545,7 +1545,7 @@
         "macOS": "12.6.8"
       },
       "sonoma": {
-        "HOMEBREW_VERSION": "4.2.17",
+        "HOMEBREW_VERSION": "4.2.19",
         "HOMEBREW_PREFIX": "/usr/local",
         "Homebrew/homebrew-core": "api",
         "CLT": "15.3.0.0.1.1708646388",
