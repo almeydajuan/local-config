@@ -13,7 +13,6 @@ brew "gpg"
 brew "gnupg"
 brew "pinentry-mac"
 
-
 cask "temurin21"
 
 brew "pyenv"
@@ -34,7 +33,6 @@ brew "sops"
 brew "yq"
 brew "stern"
 brew "terraform"
-brew "helm"
 
 ## testing
 brew "bat"
@@ -42,7 +40,6 @@ brew "fd"
 brew "httpie"
 brew "trivy"
 brew "dive"
-brew "zellij"
 brew "k9s"
 
 cask_args appdir: "/Applications"
@@ -63,7 +60,5 @@ cask "anki"
 cask "hazeover"
 cask "tomighty"
 cask "firefox"
-cask "expressvpn"
 cask "arc"
-cask "discord"
 
