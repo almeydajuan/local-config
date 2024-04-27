@@ -52,6 +52,7 @@ cask "postman"
 
 # personal
 cask "alfred"
+cask "raycast"
 cask "spotify"
 cask "sublime-text"
 cask "todoist"
