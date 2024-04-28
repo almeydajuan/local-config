@@ -41,6 +41,7 @@ brew "httpie"
 brew "trivy"
 brew "dive"
 brew "k9s"
+brew "lastpass-cli"
 
 cask_args appdir: "/Applications"
 

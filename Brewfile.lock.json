@@ -1350,6 +1350,50 @@
             }
           }
         }
+      },
+      "lastpass-cli": {
+        "version": "1.4.0",
+        "bottle": {
+          "rebuild": 0,
+          "root_url": "https://ghcr.io/v2/homebrew/core",
+          "files": {
+            "arm64_sonoma": {
+              "cellar": ":any",
+              "url": "https://ghcr.io/v2/homebrew/core/lastpass-cli/blobs/sha256:c0db1bba3298820fc8026e8413fd551d84f7ea2f5e1c0e5d4503a0d6dea032ee",
+              "sha256": "c0db1bba3298820fc8026e8413fd551d84f7ea2f5e1c0e5d4503a0d6dea032ee"
+            },
+            "arm64_ventura": {
+              "cellar": ":any",
+              "url": "https://ghcr.io/v2/homebrew/core/lastpass-cli/blobs/sha256:d5a911fb612b47c20b240730d634e336d05b7a3485e77c50d81daf13e5883851",
+              "sha256": "d5a911fb612b47c20b240730d634e336d05b7a3485e77c50d81daf13e5883851"
+            },
+            "arm64_monterey": {
+              "cellar": ":any",
+              "url": "https://ghcr.io/v2/homebrew/core/lastpass-cli/blobs/sha256:f2f003ecc5842f784a0332b69ffdcaff03471de08ca2a145adb0a125afdb5e55",
+              "sha256": "f2f003ecc5842f784a0332b69ffdcaff03471de08ca2a145adb0a125afdb5e55"
+            },
+            "sonoma": {
+              "cellar": ":any",
+              "url": "https://ghcr.io/v2/homebrew/core/lastpass-cli/blobs/sha256:f9b65123d0e03d7caefdc85603c4fe6cdb74d2efc5d46fe2a47746cde5b240e3",
+              "sha256": "f9b65123d0e03d7caefdc85603c4fe6cdb74d2efc5d46fe2a47746cde5b240e3"
+            },
+            "ventura": {
+              "cellar": ":any",
+              "url": "https://ghcr.io/v2/homebrew/core/lastpass-cli/blobs/sha256:c92cbd3e13a1f702bc683dcc8ee60088520606849d0bb99f25a16e52ba161c27",
+              "sha256": "c92cbd3e13a1f702bc683dcc8ee60088520606849d0bb99f25a16e52ba161c27"
+            },
+            "monterey": {
+              "cellar": ":any",
+              "url": "https://ghcr.io/v2/homebrew/core/lastpass-cli/blobs/sha256:960580a653f746bede884a676ee1d898a50e7a2b10093af482ae4a578c1bcb7e",
+              "sha256": "960580a653f746bede884a676ee1d898a50e7a2b10093af482ae4a578c1bcb7e"
+            },
+            "x86_64_linux": {
+              "cellar": ":any_skip_relocation",
+              "url": "https://ghcr.io/v2/homebrew/core/lastpass-cli/blobs/sha256:93a9e53234c6bfc4f1bc79a2adc372d0347038fc749b60ebed9cf565cbb4c8c0",
+              "sha256": "93a9e53234c6bfc4f1bc79a2adc372d0347038fc749b60ebed9cf565cbb4c8c0"
+            }
+          }
+        }
       }
     },
     "cask": {
@@ -1438,7 +1482,7 @@
         }
       },
       "telegram": {
-        "version": "10.12.1,262593",
+        "version": "10.12.2,262594",
         "options": {
           "full_name": "telegram",
           "args": {
