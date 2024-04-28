@@ -8,7 +8,7 @@
         "revision": "a23a7ad7c4aee341c585da6daf6a48342bf759c2"
       },
       "homebrew/cask-versions": {
-        "revision": "21bd9f7090ee8b3d53a835aa437b4633329d901a"
+        "revision": "720f26184e987c3862db69ce650085f14e70bc65"
       }
     },
     "brew": {
@@ -1425,7 +1425,7 @@
         }
       },
       "spotify": {
-        "version": "1.2.35.663,b699649e,5726",
+        "version": "1.2.35.663,b699649e,5769",
         "options": {
           "full_name": "spotify",
           "args": {
