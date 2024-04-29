@@ -63,4 +63,4 @@ cask "hazeover"
 cask "tomighty"
 cask "firefox"
 cask "arc"
-
+cask "notion"
