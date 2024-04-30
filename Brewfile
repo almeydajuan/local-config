@@ -42,6 +42,7 @@ brew "trivy"
 brew "dive"
 brew "k9s"
 brew "lastpass-cli"
+brew "neovim"
 
 cask_args appdir: "/Applications"
 
