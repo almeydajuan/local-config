@@ -22,6 +22,8 @@ brew "pipx"
 cask "wezterm"
 cask "iterm2"
 
+brew "gradle"
+
 # work - needed for running brew bundle install --clean
 brew "awscli"
 brew "fzf"
