@@ -51,8 +51,6 @@ cask_args appdir: "/Applications"
 cask "docker"
 cask "jetbrains-toolbox"
 cask "tuple"
-cask "postman"
-
 
 # personal
 cask "alfred"
