@@ -1,5 +1,4 @@
-## Execute with:
-## brew bundle install --zap --clean
+## Execute with: brew bundle install --zap --clean
 
 tap "homebrew/bundle"
 
@@ -10,7 +9,7 @@ brew "zsh-autosuggestions"
 brew "thefuck"
 brew "curl"
 
-# to replace with a jdk manager
+# Testing sdkman
 #cask "temurin21"
 
 cask "iterm2"
