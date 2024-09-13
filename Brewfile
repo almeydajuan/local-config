@@ -3,23 +3,19 @@
 tap "homebrew/bundle"
 
 # local
-brew "direnv"
 brew "fzf"
 brew "zsh-autosuggestions"
 brew "thefuck"
 brew "curl"
+cask "iterm2"
+brew "git"
+
+brew "just"
 
 # Testing sdkman
 #cask "temurin21"
 
-cask "iterm2"
-
 brew "gradle"
-
-brew "fzf"
-brew "git"
-
-brew "just"
 
 cask_args appdir: "/Applications"
 
@@ -55,4 +51,5 @@ cask "vlc"
 #brew "dive"
 #brew "lastpass-cli"
 #brew "neovim"
+#brew "direnv"
 
