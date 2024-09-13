@@ -1,56 +1,31 @@
+## Execute with:
+## brew bundle install --zap --clean
+
 tap "homebrew/bundle"
-#tap "homebrew/cask-versions"
 
 # local
 brew "direnv"
 brew "fzf"
 brew "zsh-autosuggestions"
 brew "thefuck"
-#brew "openconnect"
 brew "curl"
 
-#brew "gpg"
-#brew "gnupg"
-#brew "pinentry-mac"
-
+# to replace with a jdk manager
 #cask "temurin21"
 
-#brew "pyenv"
-#brew "pipenv"
-#brew "pipx"
-
-#cask "wezterm"
 cask "iterm2"
 
 brew "gradle"
 
-# work - needed for running brew bundle install --clean
-#brew "awscli"
 brew "fzf"
 brew "git"
-#brew "jq"
-brew "just"
-#brew "kubectx"
-#brew "sops"
-#brew "yq"
-#brew "stern"
-#brew "terraform"
 
-## testing
-#brew "bat"
-#brew "fd"
-#brew "httpie"
-#brew "trivy"
-#brew "dive"
-#brew "k9s"
-#brew "lastpass-cli"
-#brew "neovim"
+brew "just"
 
 cask_args appdir: "/Applications"
 
 cask "docker"
 cask "jetbrains-toolbox"
-#cask "tuple"
 
 # personal
 cask "alfred"
@@ -62,7 +37,23 @@ cask "telegram"
 cask "anki"
 cask "hazeover"
 cask "tomighty"
-#cask "firefox"
 cask "arc"
-#cask "notion"
 cask "vlc"
+
+# to test
+#brew "gpg"
+#brew "gnupg"
+#brew "pinentry-mac"
+
+#brew "pyenv"
+
+#brew "jq"
+#brew "yq"
+
+#brew "bat"
+#brew "fd"
+#brew "httpie"
+#brew "dive"
+#brew "lastpass-cli"
+#brew "neovim"
+
