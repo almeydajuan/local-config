@@ -16,6 +16,7 @@ brew "just"
 #cask "temurin21"
 
 brew "gradle"
+brew "pyenv"
 
 cask_args appdir: "/Applications"
 
@@ -39,8 +40,6 @@ cask "vlc"
 #brew "gpg"
 #brew "gnupg"
 #brew "pinentry-mac"
-
-#brew "pyenv"
 
 #brew "jq"
 #brew "yq"
