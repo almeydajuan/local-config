@@ -23,6 +23,8 @@ cask_args appdir: "/Applications"
 cask "docker"
 cask "jetbrains-toolbox"
 
+cask "chatgpt"
+
 # personal
 cask "alfred"
 cask "raycast"

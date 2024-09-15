@@ -1682,6 +1682,15 @@
             "appdir": "/Applications"
           }
         }
+      },
+      "chatgpt": {
+        "version": "1.2024.247,1725665409",
+        "options": {
+          "full_name": "chatgpt",
+          "args": {
+            "appdir": "/Applications"
+          }
+        }
       }
     }
   },
@@ -1704,8 +1713,8 @@
         "macOS": "12.6.8"
       },
       "sonoma": {
-        "HOMEBREW_VERSION": "4.3.18",
-        "HOMEBREW_PREFIX": "/usr/local",
+        "HOMEBREW_VERSION": "4.3.21",
+        "HOMEBREW_PREFIX": "/opt/homebrew",
         "Homebrew/homebrew-core": "api",
         "CLT": "15.3.0.0.1.1708646388",
         "Xcode": "15.4",
