@@ -1691,6 +1691,15 @@
             "appdir": "/Applications"
           }
         }
+      },
+      "whatsapp": {
+        "version": "2.24.16.80",
+        "options": {
+          "full_name": "whatsapp",
+          "args": {
+            "appdir": "/Applications"
+          }
+        }
       }
     }
   },
