@@ -1625,6 +1625,15 @@
             "appdir": "/Applications"
           }
         }
+      },
+      "texts": {
+        "version": "1.5",
+        "options": {
+          "full_name": "texts",
+          "args": {
+            "appdir": "/Applications"
+          }
+        }
       }
     }
   },

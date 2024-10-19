@@ -37,6 +37,7 @@ cask "tomighty"
 cask "arc"
 cask "vlc"
 cask "expressvpn"
+cask "texts"
 
 # to test
 #brew "gpg"
