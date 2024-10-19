@@ -36,6 +36,7 @@ cask "hazeover"
 cask "tomighty"
 cask "arc"
 cask "vlc"
+cask "expressvpn"
 
 # to test
 #brew "gpg"
