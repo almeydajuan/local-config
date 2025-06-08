@@ -8,10 +8,9 @@ Basic everyday software for configuring my local machine
 
 ## How to install tooling
 
-1. Configure a terminal (usually [iterm2](https://iterm2.com/)]
-2. Install [powerlevel10k](https://github.com/romkatv/powerlevel10k)
-3. Install [Homebrew](https://brew.sh/)
-4. Run `$ brew bundle install --file=Brewfile --cleanup --zap`
+1. Install [Homebrew](https://brew.sh/)
+2. Run `$ brew bundle install --file=Brewfile --cleanup --zap`
+3. Configure [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 
 ## Useful
 
@@ -19,6 +18,6 @@ Basic everyday software for configuring my local machine
 
 ```
 local-config() {
-  cd local-config && git pull -r
+  cd local-config && git pull -r && brew bundle install --file=Brewfile --cleanup --zap
 }
 ```
