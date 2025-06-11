@@ -10,7 +10,8 @@ Basic everyday software for configuring my local machine
 
 1. Install [Homebrew](https://brew.sh/)
 2. Run `$ brew bundle install --file=Brewfile --cleanup --zap`
-3. Configure [powerlevel10k](https://github.com/romkatv/powerlevel10k)
+3. Configure [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+4. Configure [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 
 ## Useful
 
