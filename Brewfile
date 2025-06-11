@@ -1,7 +1,5 @@
 ## Execute with: brew bundle install --zap --clean
 
-tap "homebrew/bundle"
-
 # local
 brew "fzf"
 brew "zsh-autosuggestions"
