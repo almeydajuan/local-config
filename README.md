@@ -13,6 +13,23 @@ Basic everyday software for configuring my local machine
 3. Configure [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 4. Configure [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 
+### Suggested ohmyzsh plugins
+
+plugins=(
+  zsh-autosuggestions
+  git
+  gradle
+  safe-paste
+  brew
+  docker
+  docker-compose
+  kubectl
+  kubectx
+  helm
+  terraform
+  aws
+)
+
 ## Useful
 
 1. For quick access and avoiding conflicts, consider adding this shortcut to the `.zshrc`
