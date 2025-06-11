@@ -17,6 +17,10 @@ brew "just"
 brew "gradle"
 brew "pyenv"
 
+brew "kubernetes-cli"
+brew "kubectx"
+brew "k9s"
+
 cask_args appdir: "/Applications"
 
 cask "docker"
