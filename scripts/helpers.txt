@@ -1,5 +1,5 @@
 # Function to land on the config + pull latest changes
 ## Add to the `.zshrc` or `.bashrc` file:
 local-config() {
-  cd $PATH_TO_REPO && git pull -r
+  cd $PATH_TO_REPO && git pull -r && brew bundle install --file=Brewfile --cleanup --zap
 } 
