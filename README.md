@@ -15,6 +15,7 @@ Basic everyday software for configuring my local machine
 
 ### Suggested ohmyzsh plugins
 
+``` text
 plugins=(
   zsh-autosuggestions
   git
@@ -29,6 +30,7 @@ plugins=(
   terraform
   aws
 )
+```
 
 ## Useful
 
