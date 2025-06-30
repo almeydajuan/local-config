@@ -8,6 +8,7 @@ brew "curl"
 cask "iterm2"
 brew "git"
 brew "powerlevel10k"
+brew "direnv"
 
 brew "just"
 
@@ -39,6 +40,7 @@ cask "tomighty"
 cask "arc"
 cask "vlc"
 cask "1password"
+cask "chatgpt"
 #cask "expressvpn"
 
 # to test
