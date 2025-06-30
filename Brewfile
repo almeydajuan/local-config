@@ -24,7 +24,7 @@ brew "k9s"
 
 cask_args appdir: "/Applications"
 
-cask "docker"
+#cask "docker"
 cask "jetbrains-toolbox"
 
 # personal
