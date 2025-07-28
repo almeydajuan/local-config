@@ -23,6 +23,7 @@ brew "kubernetes-cli"
 brew "kubectx"
 brew "k9s"
 brew "awscli"
+brew "terraform"
 
 cask_args appdir: "/Applications"
 
