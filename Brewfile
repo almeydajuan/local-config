@@ -1,5 +1,7 @@
 ## Execute with: brew bundle install --zap --clean
 
+cask_args appdir: "/Applications"
+
 # local
 brew "fzf"
 brew "zsh-autosuggestions"
@@ -24,8 +26,7 @@ brew "kubectx"
 brew "k9s"
 brew "awscli"
 brew "terraform"
-
-cask_args appdir: "/Applications"
+cask "gcloud-cli"
 
 #cask "docker"
 cask "jetbrains-toolbox"
