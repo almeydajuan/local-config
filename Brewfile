@@ -25,6 +25,9 @@ brew "kubernetes-cli"
 brew "kubectx"
 brew "k9s"
 brew "awscli"
+brew "tfenv"
+cask "gcloud-cli"
+
 
 #cask "docker"
 cask "jetbrains-toolbox"
