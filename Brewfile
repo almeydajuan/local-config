@@ -9,7 +9,6 @@ brew "thefuck"
 brew "curl"
 cask "iterm2"
 brew "git"
-brew "powerlevel10k"
 brew "direnv"
 brew "watch"
 
