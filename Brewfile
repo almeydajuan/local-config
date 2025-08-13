@@ -26,6 +26,7 @@ brew "kubectx"
 brew "k9s"
 brew "awscli"
 brew "tfenv"
+brew "virtualenv"
 cask "gcloud-cli"
 
 
