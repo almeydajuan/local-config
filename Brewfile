@@ -28,6 +28,7 @@ brew "awscli"
 brew "tfenv"
 brew "virtualenv"
 cask "gcloud-cli"
+brew "helm"
 
 
 #cask "docker"
