@@ -29,7 +29,7 @@ brew "tfenv"
 brew "virtualenv"
 cask "gcloud-cli"
 brew "helm"
-
+brew "tesseract"
 
 #cask "docker"
 cask "jetbrains-toolbox"
