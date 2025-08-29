@@ -49,6 +49,7 @@ cask "vlc"
 cask "1password"
 cask "chatgpt"
 #cask "expressvpn"
+cask "slack"
 
 # to test
 #brew "gpg"
