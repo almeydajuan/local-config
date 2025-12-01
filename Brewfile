@@ -33,7 +33,6 @@ brew "tesseract"
 
 #cask "docker"
 cask "jetbrains-toolbox"
-cask "claude-code"
 
 # personal
 cask "alfred"
