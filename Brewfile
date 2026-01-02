@@ -11,6 +11,7 @@ cask "iterm2"
 brew "git"
 brew "direnv"
 brew "watch"
+brew "htop"
 
 brew "just"
 
