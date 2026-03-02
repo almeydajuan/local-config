@@ -51,6 +51,7 @@ cask "1password"
 cask "chatgpt"
 #cask "expressvpn"
 cask "slack"
+cask "claude"
 
 # to test
 #brew "gpg"
