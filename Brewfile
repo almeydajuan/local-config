@@ -52,6 +52,7 @@ cask "chatgpt"
 #cask "expressvpn"
 cask "slack"
 cask "claude"
+cask "obsidian"
 
 # to test
 #brew "gpg"
