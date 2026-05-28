@@ -31,6 +31,7 @@ brew "virtualenv"
 cask "gcloud-cli"
 brew "helm"
 brew "tesseract"
+brew "fnm"
 
 #cask "docker"
 cask "jetbrains-toolbox"
