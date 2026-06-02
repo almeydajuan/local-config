@@ -32,6 +32,7 @@ cask "gcloud-cli"
 brew "helm"
 brew "tesseract"
 brew "fnm"
+brew "k6"
 
 #cask "docker"
 cask "jetbrains-toolbox"
