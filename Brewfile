@@ -33,6 +33,7 @@ brew "helm"
 brew "tesseract"
 brew "fnm"
 brew "k6"
+brew "gh"
 
 #cask "docker"
 cask "jetbrains-toolbox"
